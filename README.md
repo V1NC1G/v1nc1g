@@ -1,1 +1,3 @@
-## TODO: add more info
+Currently working on:
+- Google Cybersecurity Professional Certificate
+- CCNA
